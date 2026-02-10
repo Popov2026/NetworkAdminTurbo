@@ -54,6 +54,7 @@ Installez la dépendance principale via pip :
 
 Bash
 pip install customtkinter
+
 3. Prérequis système
 Windows : Le script est optimisé pour Windows (gestion des flags de création de processus pour éviter les fenêtres CMD intempestives lors du ping).
 
