@@ -86,4 +86,5 @@ backups/ : Dossier contenant les sauvegardes datées de vos listes.
 
 📝 Licence
 Ce projet est destiné à un usage administratif et éducatif.
+
 Copyright © 2026 Popov & Gemini - Tous droits réservés.
