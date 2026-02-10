@@ -45,8 +45,8 @@ Le script nécessite Python 3.10+.
 
 1. Cloner le projet
 Bash
-git clone https://github.com/popov2026/network-admin-turbo.git
-cd network-admin-turbo
+git clone https://github.com/popov2026/NetworkAdminTurbo.git
+cd NetworkAdminTurbo
 2. Installer les bibliothèques Python
 L'interface graphique utilise CustomTkinter. Les autres modules utilisés (os, subprocess, threading, socket, configparser) font partie de la bibliothèque standard de Python.
 
